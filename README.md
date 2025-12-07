@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de sistemas e soluções que geram impacto real. Tenho experiência com análise de dados, suporte técnico, desenvolvimento de sistemas internos e automações voltadas à produtividade. Busco constantemente aprender e aplicar novas tecnologias no meu dia a dia profissional.
+Trabalho com análise de dados, Gestão de T.I, desenvolvimento de sistemas web, software, aplicativos e automações que simplificam tarefas. Meu foco é criar soluções que tornam os processos mais rápidos e eficientes.
 
 ---
 
