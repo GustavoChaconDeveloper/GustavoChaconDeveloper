@@ -18,13 +18,13 @@ Trabalho com análise de dados, Gestão de T.I, desenvolvimento de sistemas web,
 
 ### 💼 Experiência Profissional
 
-🔹 Desenvolvimento de sistemas para uso interno e externo
-🔹 Desenvolvimento de automações para otimização de processos manuais
-🔹 Conhecimento em APIs REST
-🔹 Conhecimento em Telefonia VoIP (SIP)
-🔹 Conhecimento em Docker para criação e gerenciamento de containers
-🔹 Experiência com VPS e servidores Windows Server, WordPress, domínios, hospedagem e otimização de sistemas
-🔹 Desenvolvimento e geração de relatórios
+🔹 Desenvolvimento de sistemas para uso interno e externo  
+🔹 Desenvolvimento de automações para otimização de processos manuais  
+🔹 Conhecimento em APIs REST  
+🔹 Conhecimento em Telefonia VoIP (SIP)  
+🔹 Conhecimento em Docker para criação e gerenciamento de containers  
+🔹 Experiência com VPS e servidores Windows Server, WordPress, domínios, hospedagem e otimização de sistemas  
+🔹 Desenvolvimento e geração de relatórios  
 
 ---
 
