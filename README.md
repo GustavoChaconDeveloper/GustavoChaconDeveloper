@@ -12,7 +12,8 @@
 
 ### 🚀 Sobre mim
 
-Trabalho com análise de dados, Gestão de T.I, desenvolvimento de sistemas web, software, aplicativos e automações que simplificam tarefas. Meu foco é criar soluções que tornam os processos mais rápidos e eficientes.
+Atuo com análise de dados, gestão de TI e desenvolvimento de sistemas web, softwares, aplicativos e automações que ajudam a simplificar o dia a dia. Gosto de criar soluções práticas que realmente fazem a diferença, tornando os processos mais ágeis e eficientes.
+Tenho o hábito de separar um tempo da minha semana para estudar e me aperfeiçoar constantemente, sempre em busca de novos conhecimentos. Também desenvolvo projetos para clientes, unindo aprendizado e experiência prática, além de ser uma forma de renda extra
 
 ---
 
