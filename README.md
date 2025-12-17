@@ -18,14 +18,19 @@ Trabalho com análise de dados, Gestão de T.I, desenvolvimento de sistemas web,
 
 ### 💼 Experiência Profissional
 
-🔹Desenvolvimento de sistemas internos e externos, priorizando segurança, usabilidade e automações para melhorar processos.
-🔹 Gestão de VPS, domínios, hospedagem e otimização de sistemas
+🔹 Desenvolvimento de sistemas para uso interno e externo
+🔹 Desenvolvimento de automações para otimização de processos manuais
+🔹 Conhecimento em APIs REST
+🔹 Conhecimento em Telefonia VoIP (SIP)
+🔹 Conhecimento em Docker para criação e gerenciamento de containers
+🔹 Experiência com VPS e servidores Windows Server, WordPress, domínios, hospedagem e otimização de sistemas
+🔹 Desenvolvimento e geração de relatórios
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens:** PHP · Python · SQL · REACT 
+- **Linguagens:** PHP · Python · SQL · REACT · Node JS
 - **Ferramentas & Tecnologias:** WordPress · WHMCS · APIs · BPMN · Power BI · Excel
 - **Sistemas Operacionais:** Windows · Windows Server · VPS · pfSense · cPanel · IIS · Apache  
 - **Infraestrutura & Redes:** VPN · PABX  
