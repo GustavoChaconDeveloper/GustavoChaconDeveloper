@@ -20,6 +20,7 @@ Tenho o hábito de separar um tempo da minha semana para estudar e me aperfeiço
 ### 💼 Experiência Profissional
 
 🔹 Desenvolvimento de sistemas para uso interno e externo  
+🔹 Desenvolvimento de Software Desktop  
 🔹 Desenvolvimento de automações para otimização de processos manuais  
 🔹 Conhecimento em APIs REST  
 🔹 Conhecimento em Telefonia VoIP (SIP)  
