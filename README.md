@@ -33,6 +33,16 @@ Atuo com análise de dados, gestão de TI e desenvolvimento de sistemas web, sof
 
 <hr>
 
+<h2>🛠️ Habilidades Técnicas</h2>
+
+<ul>
+  <li><strong>Ferramentas & Tecnologias:</strong> WordPress · WHMCS · APIs · BPMN · Power BI · Excel</li>
+  <li><strong>Sistemas Operacionais & Servidores:</strong> Windows · Windows Server · VPS · pfSense · cPanel · IIS · Apache</li>
+  <li><strong>Infraestrutura & Redes:</strong> VPN · PABX</li>
+  <li><strong>Metodologias:</strong> Scrum · Operações CRUD</li>
+  <li><strong>Soft Skills:</strong> Organização · Proatividade · Flexibilidade · Trabalho em equipe</li>
+</ul>
+
 <h2>💻 Stack Tecnológica</h2>
 
 <h3>🎨 Design & Prototipagem</h3>
@@ -69,18 +79,6 @@ Atuo com análise de dados, gestão de TI e desenvolvimento de sistemas web, sof
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-<hr>
-
-<h2>🛠️ Habilidades Técnicas</h2>
-
-<ul>
-  <li><strong>Linguagens:</strong> PHP · Python · SQL · JavaScript · TypeScript</li>
-  <li><strong>Ferramentas & Tecnologias:</strong> WordPress · WHMCS · APIs · BPMN · Power BI · Excel</li>
-  <li><strong>Sistemas Operacionais & Servidores:</strong> Windows · Windows Server · VPS · pfSense · cPanel · IIS · Apache</li>
-  <li><strong>Infraestrutura & Redes:</strong> VPN · PABX</li>
-  <li><strong>Metodologias:</strong> Scrum · Operações CRUD</li>
-  <li><strong>Soft Skills:</strong> Organização · Proatividade · Flexibilidade · Trabalho em equipe</li>
-</ul>
 
 <hr>
 
