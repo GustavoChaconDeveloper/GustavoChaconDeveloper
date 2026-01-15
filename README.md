@@ -93,10 +93,11 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoChaconDeveloper&theme=tokyonight" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoChaconDeveloper&theme=github-dark" 
     width="100%" 
   />
 </p>
+
 
 
 <p align="center">
