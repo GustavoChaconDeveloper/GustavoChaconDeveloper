@@ -92,6 +92,14 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 <h2>📊 Estatísticas GitHub</h2>
 
 <p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoChaconDeveloper&theme=tokyonight" 
+    width="100%" 
+  />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoChaconDeveloper&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoChaconDeveloper&layout=compact&theme=tokyonight" />
