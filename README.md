@@ -1,5 +1,5 @@
 <!-- README.md | Gustavo Chacon -->
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://img.lightshot.app/38vcjZThTiWTrO4no5c7dA.png"><img src="https://img.lightshot.app/38vcjZThTiWTrO4no5c7dA.png" alt="image" style="max-width: 100%;"></a></p>
 <h1 align="center">Olá! 👋 Eu sou Gustavo Chacon</h1>
 
 <p align="center">
