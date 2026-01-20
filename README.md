@@ -5,7 +5,6 @@
 <p align="center">
   🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID <br>
   💻 Analista de Suporte Técnico | Desenvolvedor Full Stack <br>
-  📍 São Paulo - SP, Brasil
 </p>
 
 <hr>
