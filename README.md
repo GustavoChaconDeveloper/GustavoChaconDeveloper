@@ -6,7 +6,8 @@
   🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID <br>
   💻 Analista de Suporte Técnico | Desenvolvedor Full Stack <br>
 </p>
-
+<li>Gerenciamento de usuários, grupos e permissões no Active Directory</li>
+<li>Criação e aplicação de políticas via GPO</li>
 <hr>
 
 <h2>👨‍💻 About Me</h2>
@@ -26,6 +27,8 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 <h2>💼 Experiência Profissional</h2>
 
 <ul>
+  <li>Gerenciamento de usuários, grupos e permissões no Active Directory</li>
+  <li>Criação e aplicação de políticas via GPO</li>
   <li>Desenvolvimento de sistemas para uso interno e externo</li>
   <li>Desenvolvimento de software desktop</li>
   <li>Criação de automações para otimização de processos manuais</li>
