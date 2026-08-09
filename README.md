@@ -93,6 +93,16 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+<h3>☁️ Platforms & Hosting</h3>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
+  <img src="https://img.shields.io/badge/HostGator-FFD200.svg?style=for-the-badge&logo=hostgator&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <hr>
 
 <h2>📊 Estatísticas GitHub</h2>
