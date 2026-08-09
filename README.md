@@ -9,8 +9,8 @@
 </a>
 
 <p>
-  I hold a degree in <strong>Systems Analysis and Development</strong> from <strong>UNICID</strong>,
-  working as a <strong>Fullstack Developer</strong> and <strong>Data Analyst</strong>.
+  Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNICID</strong>,
+  atuando como <strong>Desenvolvedor Fullstack</strong> e <strong>Gestor de TI</strong>.
 </p>
 
 <blockquote>
