@@ -53,7 +53,7 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 
 <h2>💻 Stack Tecnológica</h2>
 
-<h3>🎨 Design & Prototipagem</h3>
+<h3>🎨 Design & Prototyping</h3>
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -69,7 +69,7 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<h3>⚙️ Back-end</h3>
+<h3>⚙️ Back-end & Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -77,6 +77,14 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h3>💳 Payment Gateways</h3>
+<p>
+  <img src="https://img.shields.io/badge/Mercado%20Pago-%23009EE3.svg?style=for-the-badge&logo=mercadolibre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/K8%20Pay-0052CC.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 <h3>🧰 Tools & Frameworks</h3>
