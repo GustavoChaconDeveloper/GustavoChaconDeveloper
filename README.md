@@ -10,7 +10,7 @@
 
 <p>
   I hold a degree in <strong>Systems Analysis and Development</strong> from <strong>UNICID</strong>,
-  working as a <strong>Fullstack Developer</strong> and <strong>Data Analyst</strong>.
+  working as a <strong>Fullstack Developer</strong> and <strong>IT Manager</strong>.
 </p>
 
 <blockquote>
