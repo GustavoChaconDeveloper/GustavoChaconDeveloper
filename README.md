@@ -95,7 +95,6 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 
 <h3>☁️ Platforms & Hosting</h3>
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
   <img src="https://img.shields.io/badge/GoDaddy-1BDBAD.svg?style=for-the-badge&logo=godaddy&logoColor=black" />
