@@ -82,9 +82,7 @@ unindo aprendizado e experiência prática, além de ser uma forma de renda extr
 <h3>💳 Payment Gateways</h3>
 <p>
   <img src="https://img.shields.io/badge/Mercado%20Pago-%23009EE3.svg?style=for-the-badge&logo=mercadolibre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asaas-%23003057.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Abacate%20Pay-%234CAF50.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/K8%20Pay-0052CC.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cakto-%234CAF50.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 <h3>🧰 Tools & Frameworks</h3>
