@@ -4,9 +4,6 @@
 
 <h2>💻 Fullstack Developer | 📊 Data Analyst | 🤖 AI, SaaS & Cloud</h2>
 
-<a href="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true">
-  <img align="right" src="https://github.com/devrafcks/devrafcks/raw/main/luffy.gif?raw=true" width="220" />
-</a>
 
 <p>
   Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNICID</strong>,
