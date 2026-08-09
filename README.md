@@ -2,10 +2,22 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://img.lightshot.app/38vcjZThTiWTrO4no5c7dA.png"><img src="https://img.lightshot.app/38vcjZThTiWTrO4no5c7dA.png" alt="image" style="max-width: 100%;"></a></p>
 <h1 align="center">Olá! 👋 Eu sou Gustavo Chacon</h1>
 
-<p align="center">
-  🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID <br>
-  💻 Analista de Suporte Técnico | Desenvolvedor Full Stack <br>
+<h2>💻 Fullstack Developer | 📊 Data Analyst | 🤖 AI, SaaS & Cloud</h2>
+
+<a href="https://github.com/devrafcks/devrafcks/blob/main/luffy.gif?raw=true">
+  <img align="right" src="https://github.com/devrafcks/devrafcks/raw/main/luffy.gif?raw=true" width="220" />
+</a>
+
+<p>
+  I hold a degree in <strong>Systems Analysis and Development</strong> from <strong>UNICID</strong>,
+  working as a <strong>Fullstack Developer</strong> and <strong>Data Analyst</strong>.
 </p>
+
+<blockquote>
+  <em>“People's dreams never end.” – Marshall D. Teach</em>
+</blockquote>
+
+<br clear="right">
 <hr>
 
 <h2>👨‍💻 About Me</h2>
