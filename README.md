@@ -11,8 +11,10 @@
 </p>
 
 <blockquote>
-  <em>“People's dreams never end.” – Marshall D. Teach</em>
+  <em>“Estudante de Tecnologia, sempre em busca de novos conhecimentos e aprimoramento profissional.”</em>
 </blockquote>
+
+
 
 <br clear="right">
 
